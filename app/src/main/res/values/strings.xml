@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyFm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_no_result">No Result Found</string>
+    <string name="title_activity_details_view">DetailsView</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+
+    <string name="btn_persistent">Persistent Bottom Sheet</string>
+    <string name="btn_modal">Modal Bottom Sheet</string>
+    <string name="tv_title">Learn Bottom Sheet</string>
+    <string name="tv_description">
+        A BottomSheet is a component that is used to display some information by sliding
+        the view up in the screen and also you can hide this BottomSheet when the message
+        is conveyed to the users. This is a nice way of conveying some message or performing
+        some task in Android. Types of BottomSheet \n\nA BottomSheet is of two types: \n\nPersistent BottomSheet \n\nModal BottomSheet</string>
+    <string name="btn_one">Button 1</string>
+    <string name="btn_two">Button 2</string>
+    <string name="btn_three">Button 3</string>
+
+</resources>
